@@ -10,5 +10,7 @@ int main(int argc, char *argv[])
     QTranslator translator;
     Practical_use w;
     w.show();
+
+
     return a.exec();
 }
